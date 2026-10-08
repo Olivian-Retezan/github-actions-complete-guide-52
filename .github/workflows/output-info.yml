@@ -1,8 +1,5 @@
-name: Output Info
-
-on:
-  issues:
-
+name: Deployment Exercise 2
+on: issues
 jobs:
   output-info:
     runs-on: ubuntu-latest
